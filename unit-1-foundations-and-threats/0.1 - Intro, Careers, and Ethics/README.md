@@ -10,10 +10,11 @@
 - What careers are available to students and what are the benefits of these careers?
 - Why is a code of behavior important for this course?
 
+
 ### Lecture Notes
 > From the course notes reviewed in class, take note on the material from this lesson as it relates to the Lesson Objectives and Guiding Question(s):
 
-...
+...cyber proffesionals protect people just like firefighters, police but on the internet. Cyber security majors get paid 100,000 at the start of their jobs. 
 
 ### Application / Personal Research / Summary
 > In your own words, write a summary of this lesson and connect it to yourself and the real-world. If needbe, do a rapid research on the topic to help with you summary
@@ -23,4 +24,6 @@
 ### Vocabulary
 > Include the vocabulary word(s) from this lesson with a defintion
 
-...
+... cybersecurity is about protecting you from digital attacks/ accidents
+
+
